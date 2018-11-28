@@ -11,4 +11,12 @@ Subscribe to [the newsletter](https://me.io/subscribe-to-our-newsletter)
 
 And if you are around, we will be very excited to meet you, Join our [Meetup](https://me.io/meetup-group).
 
+Socialize and Follow us:
+- [Twitter](https://me.io/twitter)
+
+Join us:
+- [Telegram](https://me.io/join-telegram)
+- [Whatsapp](https://me.io/join-whatsapp)
+- [Slack](https://me.io/join-slack)
+
 Lots of love from your developer friends ❤️
