@@ -1,2 +1,2 @@
 # Intro 
-Learn more about [the group](https://github.com/me-io/community/issues/2)
+Learn more about [the group](https://me.io/group-intro)

@@ -1,3 +1,3 @@
 # Motivation
 
-Read about our [motivation](https://github.com/me-io/community/issues/1)
+Read about our [motivation](https://me.io/motivation)

@@ -5,7 +5,7 @@ Nice to e-meet you!
 
 This is a group for developers interesting in sharing and learning about software development.
 
-Read about our [motivation](https://github.com/me-io/community/issues/1) and learn more about [the group](https://github.com/me-io/community/issues/2)
+Read about our [motivation](https://me.io/motivation) and learn more about [the group](https://me.io/group-intro)
 
 Subscribe to [the newsletter](https://me.io/subscribe-to-our-newsletter)
 
