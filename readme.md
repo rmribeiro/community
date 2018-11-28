@@ -21,4 +21,4 @@ Join us:
 
 #### Show love, spread the word and invite everyone out there!
 
-#### Lots of love from your developer friends ❤
+#### Lots of love from your developer friends ❤️️
