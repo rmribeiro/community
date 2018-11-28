@@ -19,4 +19,6 @@ Join us:
 - [Whatsapp](https://me.io/join-whatsapp)
 - [Slack](https://me.io/join-slack)
 
-Lots of love from your developer friends ❤️
+#### Show love, spread the word and invite everyone out there!
+
+#### Lots of love from your developer friends ❤
