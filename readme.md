@@ -1,4 +1,31 @@
 
+<p align="center">
+  <h3 align="center">ME.IO Dev Group</h3>
+  <p align="center">A Developer centric group by developers, focused around open-source, practical knowledge, tech culture, career growth and connecting developers together.</p>
+  <p align="center">
+    <a href="https://me.io">
+        <img src="https://img.shields.io/badge/DEV-Community-blue.svg?style=flat-square" alt="Developer Community">
+    </a>
+    <a href="https://me.io/subscribe-to-our-newsletter">
+        <img src="https://img.shields.io/badge/DEV-Newsletter-black.svg?style=flat-square" alt="Newsletter">
+    </a>
+    <a href="https://me.io/meetup-group">
+        <img src="https://img.shields.io/badge/DEV-Meetup-red.svg?style=flat-square" alt="Meetup Groups">
+    </a>
+    <a href="https://me.io/speak-at-event">
+        <img src="https://img.shields.io/badge/Speakers-Welcome-blue.svg?style=flat-square" alt="Speak at event">
+    </a>
+    <a href="https://me.io/feedback">
+        <img src="https://img.shields.io/badge/Feedback-THNX-yellow.svg?style=flat-square" alt="Speak at event">
+    </a>
+    <a href="LICENSE.md">
+        <img src="https://img.shields.io/badge/<3-OSS-brightgreen.svg?style=flat-square" alt="Software License">
+    </a>
+  </p>
+</p>
+
+----
+
 #### Hey There 👋
 
 Nice to e-meet you! 
