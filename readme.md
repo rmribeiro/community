@@ -16,7 +16,7 @@
         <img src="https://img.shields.io/badge/Speakers-Welcome-blue.svg?style=flat-square" alt="Speak at event">
     </a>
     <a href="https://me.io/feedback">
-        <img src="https://img.shields.io/badge/Feedback-THNX-yellow.svg?style=flat-square" alt="Speak at event">
+        <img src="https://img.shields.io/badge/Feedback-Thanks-yellow.svg?style=flat-square" alt="Speak at event">
     </a>
     <a href="LICENSE.md">
         <img src="https://img.shields.io/badge/<3-OSS-brightgreen.svg?style=flat-square" alt="Software License">
