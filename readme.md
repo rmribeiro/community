@@ -1,7 +1,7 @@
 
 <p align="center">
   <h3 align="center">ME.IO Community</h3>
-  <p align="center">A Developer centric group by developers, focused around open-source, practical knowledge, tech culture, career growth and connecting developers together.</p>
+  <p align="center">Developers community focused around open-source, practical knowledge, tech culture, career growth and connecting developers</p>
   <p align="center">
     <a href="https://me.io">
         <img src="https://img.shields.io/badge/DEV-Community-blue.svg?style=flat-square" alt="Developer Community">
