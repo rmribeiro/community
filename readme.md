@@ -1,7 +1,7 @@
 
 <p align="center">
-  <h3 align="center">ME.IO Community</h3>
-  <p align="center">Developers community focused around open-source, practical knowledge, tech culture, career growth and connecting developers</p>
+  <h1 align="center">me.io community</h1>
+  <p align="center">Developers, opensource, practical knowledge, tech culture, career growth</p>
   <p align="center">
     <a href="https://me.io">
         <img src="https://img.shields.io/badge/DEV-Community-blue.svg?style=flat-square" alt="Developer Community">
@@ -24,7 +24,7 @@
   </p>
 </p>
 
-----
+![](https://i.imgur.com/dTe9SKq.png)
 
 #### Hey There 👋
 
