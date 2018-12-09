@@ -30,7 +30,7 @@
 
 Nice to e-meet you! 
 
-This is a group for developers interesting in sharing and learning about software development.
+This is a group for developers interested in sharing and learning about software development.
 
 Read about our [motivation](https://me.io/motivation) and learn more about [the group](https://me.io/group-intro)
 
